@@ -1,0 +1,44 @@
+_repo: How-animals-talk-b-And-other-pleasant-studies-of-birds-and-beast_73009
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Copeland, Charles
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '3033'
+    url: http://www.gutenberg.org/2009/agents/3033
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+creator:
+  author:
+    agent_name: Long, William J. (William Joseph)
+    alias: Long, William Joseph
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '744'
+    url: http://www.gutenberg.org/2009/agents/744
+    wikipedia: https://en.wikipedia.org/wiki/William_J._Long
+description: ''
+gutenberg_issued: '2024-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73009'
+  lccn: '19013902'
+language: en
+pgterms:marc904: https://archive.org/details/howanimalstalkot00longrich/mode/2up
+pgterms:marc905: 20231203104908long
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Produced by Susan E., Jeroen Hellingman and the Online Distributed
+  Proofreading Team at https://www.pgdp.net/ for Project Gutenberg (This file was
+  produced from images generously made available by The Internet Archive).
+publication_note: '  $aNew York :$bHarper & brothers, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal communication'
+- !lcsh 'Forest animals -- Behavior'
+- !lcc 'QL'
+- GITenberg
+title: 'How animals talk : $b And other pleasant studies of birds and beast'
+url: http://www.gutenberg.org/ebooks/73009
