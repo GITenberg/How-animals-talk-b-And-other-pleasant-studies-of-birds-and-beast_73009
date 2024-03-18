@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '3033'
     url: http://www.gutenberg.org/2009/agents/3033
     wikipedia: https://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 73009-h/images/backcover.jpg
 creator:
   author:
     agent_name: Long, William J. (William Joseph)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/744
     wikipedia: https://en.wikipedia.org/wiki/William_J._Long
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73009#How-animals-talk-b-And-other-pleasant-studies-of-birds-and-beast
 gutenberg_issued: '2024-02-21'
 gutenberg_type: Text
 identifiers:
